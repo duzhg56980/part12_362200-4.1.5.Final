@@ -1,0 +1,6 @@
+import io.netty.util.collection.CharObjectHashMap;
+public class FunctionUse11889 {
+public void funcUse() {
+CharObjectHashMap charobjecthashmap = new CharObjectHashMap();
+}
+}
